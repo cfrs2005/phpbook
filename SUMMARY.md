@@ -4,7 +4,7 @@
 * [read](read.md)
 * [PHP的生命周期](phpde_sheng_ming_zhou_qi.md)
    * [让我们从SAPI开始](phpde_sheng_ming_zhou_qi/让我们从SAPI开始.md)
-   * PHP的启动与终止
+   * [PHP的启动与终止](phpde_qi_dong_yu_zhong_zhi.md)
    * PHP的生命周期
    * 线程安全
    * 小结

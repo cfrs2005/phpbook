@@ -2,7 +2,9 @@
 
 ## 关于本书
 
-本书作者[http://www.walu.cc](http://www.walu.cc/phpbook/),我只是做个搬运工，通过gitbook.com自带的方式生成Epub等相关格式，以导入到Kindle中阅读.
+本书作者[http://www.walu.cc](http://www.walu.cc/phpbook/)。
+
+我只是做个搬运工，通过导入到gitbook.com项目中，使用自带的系统功能生成Epub等相关格式，以导入到Kindle中阅读.
 
 ## 介绍
 

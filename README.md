@@ -6,6 +6,10 @@
 
 我只是做个搬运工，通过导入到gitbook.com项目中，使用自带的系统功能生成Epub等相关格式，以导入到Kindle中阅读.
 
+本书gitbook阅读地址 [https://cfrs2005.gitbooks.io/php-extend-develop/content/](https://cfrs2005.gitbooks.io/php-extend-develop/content/)
+
+本书如果有文字，或者标签类错误，联系 cfrs2005#gmail.com 3KS.
+
 ## 介绍
 
 虽然用了书名号，但它是我的一个业余项目而已，它以Sara Golemon在2005年著作的《Extending and Embedding PHP》一书为蓝本翻译修改而来。这里先对Sara女士表示感谢，为我们奉献了这么优秀的一本技术图书。截止到目前（2011年），这几年以来，PHP的应用在中国突飞猛进，已经渗透到了互联网的各个方面，现在每个公司里都不可能一点没有PHP的影子了。有关PHP语言自身的书籍也是层出不穷，而有关PHP扩展开发以及PHP内核方面的文字却都比较零散，比较系统的有TIPI项目、Zend上面的几篇文章以及《Extending and Embedding PHP》这本书的英文版，不能不说这直接限制住了部分人在PHP语言上的深入研究与学习。我在学校的时候就翻阅过这本书的电子版，但因为是英文的终究没有在那时深入研究下去，也算是一件憾事。
